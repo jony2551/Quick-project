@@ -1,0 +1,101 @@
+* { padding: 0%; margin: 0%; }
+
+header {
+     border-bottom: 1px solid rgb(230, 227, 227); }
+.header-contant { 
+    
+    width: 90%; margin-left: 5%; margin-right: 5%; 
+    padding-top: 4%; padding-bottom: 4%; overflow: hidden; }
+.logo { 
+    width: 20%; float: left; }
+.logo img {
+     width: 30%; }
+nav { 
+    width: 30%; float: right; }
+nav ul {
+     list-style: none; overflow: hidden; }
+nav ul li {
+     float: left; margin-right: 3%; font-size: 107%; text-transform: capitalize; }
+.content { 
+    width: 60%; margin: 3% 20% 20%; text-align: center; }
+.content p {
+     font-size: 73%; color: rgb(14, 3, 3); text-align: center; margin-top: 1%; }
+.content h1 { 
+    text-align: center; font-size: 175%; color: rgb(0, 138, 255); margin-bottom: 0%; }
+.content img { 
+    width: 68%; margin-top: 2%; text-align: center; }
+.content h1:first-child { color: black; overflow: hidden; }
+.main-content { 
+    width: 60%; text-align: center; }
+.left-content { 
+    width: 46%; float: left; text-align: right; }
+.left
+-content h1 { 
+    text-align: right; color: red !important; }
+.left-content p { 
+    
+    text-align: right; margin: -1px; }
+.right_content {
+    
+    width: 49%; float: right; text-align: left; }
+.right_content h1 {
+    
+    text-align: left;color: rgb(27, 70, 90) !important;width: 107%;}
+.left-content h1:nth-child(2) { 
+    
+    color: red; }
+* { padding: 0%; margin: 0%; }
+header { border-bottom: 1px solid rgb(230, 227, 227); }
+.header-contant { 
+     width: 90%; margin-left: 5%; margin-right: 5%; padding-top: 4%; padding-bottom: 4%; overflow: hidden; }
+.logo { 
+    
+    width: 20%; float: left; }
+.logo img { 
+    width: 30%; }
+nav { 
+    
+    width: 30%; float: right; }
+nav ul { 
+
+    list-style: none; overflow: hidden; }
+nav ul li {
+
+     float: left; margin-right: 3%; font-size: 107%; text-transform: capitalize; }
+.content { 
+    
+    width: 60%; margin: 3% 20% 20%; text-align: center; }
+.content p { 
+    
+    font-size: 73%; color: rgb(14, 3, 3); text-align: center; margin-top: 1%; }
+.content h1 { 
+    
+    text-align: center; font-size: 175%; color: rgb(0, 138, 255); margin-bottom: 0%; }
+.content img {
+    
+    width: 68%; margin-top: 2%; text-align: center; }
+
+.content h1:first-child { 
+    color: black; overflow: hidden; }
+
+
+.main-content {
+    
+    width: 60%;  }
+.left-content { 
+    
+    width: 46%; float: left; text-align: right; }
+.left-content h1 {
+    
+    text-align: right; color: red !important; }
+.left-content p { 
+    
+    text-align: right; margin: -1px; }
+.right_content { 
+    
+    width: 49%; float: right; text-align: left; }
+.right_content h1 {
+    
+    text-align: left;color: rgb(27, 70, 90) !important;width: 107%;}
+.left-content h1:nth-child(2) {
+     color: red; }
